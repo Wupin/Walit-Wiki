@@ -1,4 +1,4 @@
 # Table of contents
 
-* [README](README.md)
+* [Walit wiki](README.md)
 * [Vzácnost předmětů](rarity.md)
