@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Úvod](README.md)
-* [Předměty|Vzácnost předmětů](items/rarity.md)
-* [Předměty|Jídlo](items/food.md)
-* [Funkce|Rybaření](functions/fishing.md)
+## Předměty
+  * [Vzácnost předmětů](items/rarity.md)
+  * [Jídlo](items/food.md)
+## Funkce serveru
+  * [Rybaření](functions/fishing.md)
