@@ -4,13 +4,13 @@ Vzácnost (rarita) je statistický údaj, který se používá u předmětů neb
 Vzácnost lze zjistit barvou názvu předmětu.
 
 ## Seznam
-Odpad  
-Obyčejné  
-Neobyčejné  
-Vzacné  
-Epické  
-<span style="color:#FFAA00">Legendární</span>  
-Test  
+<mark style="color:#AAAAAA;">Odpad</mark>  
+<mark style="color:#FFFFFF;">Obyčejné</mark>  
+<mark style="color:#55FF55;">Neobyčejné</mark>  
+<mark style="color:#5555FF;">Vzacné</mark>  
+<mark style="color:#AA00AA;">Epické</mark>  
+<mark style="color:#FFAA00;">Legendární</mark>  
+<mark style="color:#55FF55;">Test</mark>  
 
 
 ## Fun fact
