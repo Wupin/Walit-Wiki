@@ -6,3 +6,5 @@
   * [Jídlo](items/food.md)
 ## Funkce serveru
   * [Rybaření](functions/fishing.md)
+## For Admins
+  * [Testing page](test.md)
