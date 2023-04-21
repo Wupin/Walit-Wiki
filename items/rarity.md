@@ -9,7 +9,7 @@ Obyčejné
 Neobyčejné  
 Vzacné  
 Epické  
-Legendární  
+<span style="color:#FFAA00">Legendární</span>  
 Test  
 
 
