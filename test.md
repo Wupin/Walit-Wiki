@@ -6,4 +6,4 @@
 <mark style="color:#FF0000;">mark #FF0000</mark>
 
 
-[Hidden Page](hidden_page.md)
+[Hidden Page](/hidden_page.md)
