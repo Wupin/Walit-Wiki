@@ -3,9 +3,9 @@
 * [Úvod](README.md)
 
 ## Server
-* [Funkce](functions/info.md)
+* [Funkce](functions/functions.md)
   * [Rybaření](functions/fishing.md)
   * [Farmaření](functions/farming.md)
   * [Čas a počasí](functions/time.md)
-* [Předměty](items/info.md)
+* [Předměty](items/items.md)
   * [Jídlo](items/food.md)
