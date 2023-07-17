@@ -5,10 +5,10 @@
 * [Úvod](README.md)
 
 ## Server
-* [Funkce](README.md)
+* [Funkce](functions/README.md)
   * [Rybaření](functions/fishing.md)
   * [Čas a počasí](functions/time.md)
-* [Předměty](items/readme.md)
+* [Předměty](items/README.md)
   * [Jídlo](items/food.md)
 
 ## For Admins
