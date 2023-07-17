@@ -1,5 +1,3 @@
-* [Hidden Page](hidden_page.md)
-
 # Table of contents
 
 * [Úvod](README.md)
