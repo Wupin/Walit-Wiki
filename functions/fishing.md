@@ -5,4 +5,4 @@
  ## Minihra
  Než úlovek vylovíte musíte úspěšně dokončit minihru, která spočívá v zatahnutí prutu v pravý okamžik. Zatáhnout prut pravým kliknutím, musíte tehdy, když bílé políčko překryje světle modré.
 
-{% embed url="https://www.youtube.com/watch?v=nfrrgp-SkM8" %}
+{% embed url="https://youtu.be/02mvHk29lWE" %}
