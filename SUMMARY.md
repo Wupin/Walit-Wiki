@@ -10,7 +10,3 @@
   * [Čas a počasí](functions/time.md)
 * [Předměty](items/items.md)
   * [Jídlo](items/food.md)
-
-***
-
-* [Hide from sidebar](hide-from-sidebar.md)
