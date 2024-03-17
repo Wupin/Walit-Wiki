@@ -13,4 +13,4 @@
 
 ***
 
-* [Hide from sidebar](hide-from-sidebar.md)
+* [Hide from sidebar](hide-from-sidebar.md){.no-toc}
